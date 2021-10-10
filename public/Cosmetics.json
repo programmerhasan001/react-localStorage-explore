@@ -1,0 +1,27 @@
+[
+    {
+        "id": "A",
+        "name": "Alta",
+        "price": 320
+    },
+    {
+        "id": "B",
+        "name": "Nail-Polish",
+        "price": 180
+    },
+    {
+        "id": "C",
+        "name": "Lipstic",
+        "price": 120
+    },
+    {
+        "id": "D",
+        "name": "Churi",
+        "price": 320
+    },
+    {
+        "id": "E",
+        "name": "mascara",
+        "price": 520
+    }
+]
